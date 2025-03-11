@@ -1,0 +1,8 @@
+2025-03-11 17:56:17,926 - INFO - AUTHORIZATION & CAPTURE (SINGLE): {'status': 'SUCCESS', 'transaction_id': '7417265774996624404807', 'message': 'Authorization and capture successful'}
+2025-03-11 17:56:19,131 - INFO - AUTHORIZATION (SEPARATE): {'status': 'SUCCESS', 'transaction_id': '7417265788766885504806', 'message': 'Authorization successful'}
+2025-03-11 17:56:19,519 - INFO - CAPTURE (SEPARATE): {'status': 'FAILED', 'error': 'No response received'}
+2025-03-11 17:56:20,262 - INFO - AUTHORIZATION REVERSAL (Authorization and capture successful): {'status': 'FAILED', 'error': 'No response received'}
+2025-03-11 17:56:20,962 - INFO - AUTHORIZATION REVERSAL (Authorization successful): {'status': 'FAILED', 'error': 'No response received'}
+2025-03-11 17:56:21,834 - INFO - REFUND (Authorization and capture successful): {'status': 'SUCCESS', 'message': 'Refund successful'}
+2025-03-11 17:56:22,556 - INFO - REFUND (Authorization successful): {'status': 'SUCCESS', 'message': 'Refund successful'}
+2025-03-11 17:56:23,799 - INFO - DECISION MANAGER TEST: {'status': 'FAILED', 'error': 'Transaction was not rejected as expected'}
