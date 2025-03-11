@@ -1,15 +1,3 @@
-Aqui está um **README.md** bem estruturado para **preparar o ambiente e ensinar a executar seu código**. O arquivo inclui:
-
-✅ **Pré-requisitos** (instalação do ambiente)  
-✅ **Configuração** (configuração das credenciais no `config.py`)  
-✅ **Execução** (como rodar `main.py`)  
-✅ **Estrutura do Projeto** (explicação dos arquivos)  
-✅ **Exemplo de Saída** (exemplo do que esperar ao executar)  
-
----
-
-### 📌 **README.md**
-```markdown
 # CyberSource Payment Integration
 
 This project integrates with the **CyberSource API** to perform payment transactions, including:
