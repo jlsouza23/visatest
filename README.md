@@ -121,8 +121,3 @@ Feel free to fork this project and submit a **pull request** if you want to impr
 📩 **Questions?** Contact me at `jlsouza23@gmail.com`.
 
 ---
-
-## 📜 **License**
-This project is licensed under the **MIT License**.
-```
-
